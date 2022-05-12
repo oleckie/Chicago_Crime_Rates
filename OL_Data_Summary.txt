@@ -1,0 +1,9 @@
+From the pie chart we are able to determine that the vast majority of the crimes fall within 10
+categories which constitute for over 91% of all crimes committed between 2020 and 2021.
+
+As we extract the top 10 crimes commited for this time frame, we can continue to see an uneven
+distribution of the top 10 crimes. From the list we see that there are 3 types of crimes that may
+be similar.  Theft is considered to be taking property from a building, pick-pocketing, retail theft,
+and both theft of under and over $500. Robbery is considered to be armed with a weapon or by physical
+force. Burglary is considered to be unlawful and/or forcible entry. We can see that from theft to 
+ criminal damage, there is a sharp decline in number of occurances and it continues to decline.
